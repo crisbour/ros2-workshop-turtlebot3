@@ -45,9 +45,9 @@ We encourage you to actively participate, ask questions, and share your own insi
 
 :computer: Ubuntu laptop
 
-:pager: [Tmux](https://tmux.app/#install)
+:pager: [Tmux](https://github.com/tartanroboticscollective/ros2-workshop-turtlebot3/wiki/Tmux-Setup)
 
-:whale2: [Docker](https://docs.docker.com/desktop/#next-steps)
+:whale2: [Docker](https://github.com/tartanroboticscollective/ros2-workshop-turtlebot3/wiki/Docker-Setup)
 
 Please see our [Setup Instructions](https://github.com/tartanroboticscollective/ros2-workshop-turtlebot3/wiki#setup) and more in our Wiki.
 
