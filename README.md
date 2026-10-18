@@ -121,7 +121,7 @@ If you do have time and want to breeze through the workshop material, feel free 
 
 **If and only if** you used our Tmux setup script, you will also have an enhanced Tmux configuration enabling mouse support, and you will be able to use these short-cuts:
 
-![alt text](media/tmux_cheatsheet_ROS101.jpg "Tmux Cheat Sheet")
+![alt text](media/tmux_cheatsheet_ROS101.jpg? "Tmux Cheat Sheet")
 
 ## Tutorials
 
